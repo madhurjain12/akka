@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.akkademy.AkkademyDBTest, sbt.AnnotatedFingerprintWrapper@4484cf1a, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mSummary for JUnit not available.[0m
+[0m[[31merror[0m] [0mFailed: Total 1, Failed 1, Errors 0, Passed 0[0m
+[0m[[31merror[0m] [0mFailed tests:[0m
+[0m[[31merror[0m] [0m	com.akkademy.AkkademyDBTest[0m
+[0m[[31merror[0m] [0m(test:[31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

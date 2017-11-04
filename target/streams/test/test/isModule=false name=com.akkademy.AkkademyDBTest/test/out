@@ -1,0 +1,9 @@
+[0m[[31merror[0m] [0mTest com.akkademy.[33mAkkademyDBTest[0m.[31mitShouldPlaceKeyValueFromSetMessageIntoMap[0m failed: java.util.concurrent.[31mTimeoutException[0m: Futures timed out after [5000 milliseconds][0m
+[0m[[31merror[0m] [0m    at scala.concurrent.impl.Promise$DefaultPromise.ready(Promise.scala:219)[0m
+[0m[[31merror[0m] [0m    at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:223)[0m
+[0m[[31merror[0m] [0m    at scala.concurrent.Await$$anonfun$result$1.apply(package.scala:111)[0m
+[0m[[31merror[0m] [0m    at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:53)[0m
+[0m[[31merror[0m] [0m    at scala.concurrent.Await$.result(package.scala:111)[0m
+[0m[[31merror[0m] [0m    at akka.testkit.TestActorRef.underlyingActor(TestActorRef.scala:93)[0m
+[0m[[31merror[0m] [0m    at com.akkademy.AkkademyDBTest.itShouldPlaceKeyValueFromSetMessageIntoMap([35mAkkademyDBTest.java[0m:[33m21[0m)[0m
+[0m[[31merror[0m] [0m    ...[0m
